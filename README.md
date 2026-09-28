@@ -1,7 +1,7 @@
 # Hello
 I am currently undergoing a data analysis course with IT Online Learning. 
 
-I have prior experience with data analysis through Python and Jupyter notebook through attaining a PGDip in Information and Library Science with the University of Strathclyde in 2022. I also attained a MA(Hons) in Sociology degree with the University of Edinburgh in 2021. 
+I have prior experience with data analysis through Python and Jupyter notebook through attaining a PGDip in Information and Library Science with the University of Strathclyde in 2022. I also attained a MA(Hons) in Sociology with the University of Edinburgh in 2021. 
 
 Since 2022 I have worked in public libraries, retail and in the Early Years (public and private nurseries). 
 
