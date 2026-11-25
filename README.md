@@ -12,7 +12,7 @@ Since 2022 I have worked in public libraries, retail and in the Early Years (pub
 * Microsoft Power BI
 * MySQL
 
-##I'm Currently Working on: 
+## I'm Currently Working on: 
 * MySQL Customer Relations Management System Practice
 
 
